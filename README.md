@@ -1,35 +1,27 @@
-# Angular-Shopping-Website
-Spring Boot, Hibernate, AngularJS, mySql
-**### Add to Cart Page**
+# AngularEcommerce
 
-![Screenshot (160)](https://user-images.githubusercontent.com/40536455/87548957-d657e780-c6ca-11ea-8b3b-b9e81a4e31d4.png)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-**### Total Quantity & Shipping Details** 
+## Development server
 
-![Screenshot (161)](https://user-images.githubusercontent.com/40536455/87548968-d821ab00-c6ca-11ea-94ff-8f4c3b706c65.png)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-**### Books Section**
+## Code scaffolding
 
-![Screenshot (157)](https://user-images.githubusercontent.com/40536455/87548980-da840500-c6ca-11ea-91de-6f58d6abbf7a.png)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-**### Products Details Page**
+## Build
 
-![Screenshot (158)](https://user-images.githubusercontent.com/40536455/87548982-db1c9b80-c6ca-11ea-8f29-42b06dabf9f8.png)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-**### Search Bar**
+## Running unit tests
 
-![Screenshot (159)](https://user-images.githubusercontent.com/40536455/87548988-dbb53200-c6ca-11ea-8b23-b439fcd5c22d.png)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-**### Backend Output**
+## Running end-to-end tests
 
-![Screenshot (163)](https://user-images.githubusercontent.com/40536455/87549614-ab21c800-c6cb-11ea-9058-ff1c45e6a9fd.png)
-**
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-**### Database - mySql**
+## Further help
 
-![Screenshot (162)](https://user-images.githubusercontent.com/40536455/87549610-a8bf6e00-c6cb-11ea-95a1-b2db01632eba.png)
-
-**### Database**
-
-![Screenshot (164)](https://user-images.githubusercontent.com/40536455/87550090-4d41b000-c6cc-11ea-964b-d2dfb46a824e.png)
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
